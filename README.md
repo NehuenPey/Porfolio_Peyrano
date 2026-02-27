@@ -1,7 +1,5 @@
 # Nehuén Peyrano — Portfolio
 
-Portfolio profesional de desarrollo web enfocado en diseño moderno, rendimiento y experiencia de usuario.
-
 🔗 **Live Site:**
 [https://nehuenpeyranodev.vercel.app/](https://nehuenpeyranodev.vercel.app/)
 
