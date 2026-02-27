@@ -1022,6 +1022,10 @@
           gap: 2.5rem;
       }
 
+      .contact-container {
+          grid-template-columns: 1fr;
+      }
+
       section {
           padding: 4rem 1.5rem;
       }
